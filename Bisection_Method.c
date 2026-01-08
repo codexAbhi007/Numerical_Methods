@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
-#define MAX_DEGREE 100
+#define MAX_DEGREE 1000
 
 // Function to evaluate the polynomial at a given x
 double evaluate(double x, double coeffs[], int degree)
